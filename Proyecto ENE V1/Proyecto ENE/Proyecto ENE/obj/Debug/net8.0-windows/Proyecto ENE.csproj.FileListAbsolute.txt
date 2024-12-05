@@ -1,0 +1,42 @@
+C:\Users\bash\source\repos\Proyecto ENE\Proyecto ENE\obj\Debug\net8.0-windows\Proyecto_ENE.Forms.AgregarUsuario.resources
+C:\Users\bash\source\repos\Proyecto ENE\Proyecto ENE\obj\Debug\net8.0-windows\Proyecto_ENE.Forms.Login.resources
+C:\Users\bash\source\repos\Proyecto ENE\Proyecto ENE\obj\Debug\net8.0-windows\Proyecto_ENE.MenúPrincipal.resources
+C:\Users\bash\source\repos\Proyecto ENE\Proyecto ENE\obj\Debug\net8.0-windows\Proyecto ENE.csproj.GenerateResource.cache
+C:\Users\bash\source\repos\Proyecto ENE\Proyecto ENE\obj\Debug\net8.0-windows\Proyecto ENE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bash\source\repos\Proyecto ENE\Proyecto ENE\obj\Debug\net8.0-windows\Proyecto ENE.AssemblyInfoInputs.cache
+C:\Users\bash\source\repos\Proyecto ENE\Proyecto ENE\obj\Debug\net8.0-windows\Proyecto ENE.AssemblyInfo.cs
+C:\Users\bash\source\repos\Proyecto ENE\Proyecto ENE\obj\Debug\net8.0-windows\Proyecto ENE.csproj.CoreCompileInputs.cache
+C:\Users\bash\source\repos\Proyecto ENE\Proyecto ENE\bin\Debug\net8.0-windows\Proyecto ENE.exe
+C:\Users\bash\source\repos\Proyecto ENE\Proyecto ENE\bin\Debug\net8.0-windows\Proyecto ENE.deps.json
+C:\Users\bash\source\repos\Proyecto ENE\Proyecto ENE\bin\Debug\net8.0-windows\Proyecto ENE.runtimeconfig.json
+C:\Users\bash\source\repos\Proyecto ENE\Proyecto ENE\bin\Debug\net8.0-windows\Proyecto ENE.dll
+C:\Users\bash\source\repos\Proyecto ENE\Proyecto ENE\bin\Debug\net8.0-windows\Proyecto ENE.pdb
+C:\Users\bash\source\repos\Proyecto ENE\Proyecto ENE\obj\Debug\net8.0-windows\Proyecto ENE.dll
+C:\Users\bash\source\repos\Proyecto ENE\Proyecto ENE\obj\Debug\net8.0-windows\refint\Proyecto ENE.dll
+C:\Users\bash\source\repos\Proyecto ENE\Proyecto ENE\obj\Debug\net8.0-windows\Proyecto ENE.pdb
+C:\Users\bash\source\repos\Proyecto ENE\Proyecto ENE\obj\Debug\net8.0-windows\Proyecto ENE.genruntimeconfig.cache
+C:\Users\bash\source\repos\Proyecto ENE\Proyecto ENE\obj\Debug\net8.0-windows\ref\Proyecto ENE.dll
+C:\Users\basti\Desktop\Taller programación\Proyecto ENE V1\Proyecto ENE\Proyecto ENE\bin\Debug\net8.0-windows\Proyecto ENE.exe
+C:\Users\basti\Desktop\Taller programación\Proyecto ENE V1\Proyecto ENE\Proyecto ENE\bin\Debug\net8.0-windows\Proyecto ENE.deps.json
+C:\Users\basti\Desktop\Taller programación\Proyecto ENE V1\Proyecto ENE\Proyecto ENE\bin\Debug\net8.0-windows\Proyecto ENE.runtimeconfig.json
+C:\Users\basti\Desktop\Taller programación\Proyecto ENE V1\Proyecto ENE\Proyecto ENE\bin\Debug\net8.0-windows\Proyecto ENE.dll
+C:\Users\basti\Desktop\Taller programación\Proyecto ENE V1\Proyecto ENE\Proyecto ENE\bin\Debug\net8.0-windows\Proyecto ENE.pdb
+C:\Users\basti\Desktop\Taller programación\Proyecto ENE V1\Proyecto ENE\Proyecto ENE\obj\Debug\net8.0-windows\Proyecto_ENE.Forms.AgregarTrabajador.resources
+C:\Users\basti\Desktop\Taller programación\Proyecto ENE V1\Proyecto ENE\Proyecto ENE\obj\Debug\net8.0-windows\Proyecto_ENE.Forms.AgregarUsuario.resources
+C:\Users\basti\Desktop\Taller programación\Proyecto ENE V1\Proyecto ENE\Proyecto ENE\obj\Debug\net8.0-windows\Proyecto_ENE.Forms.CalcularSueldo.resources
+C:\Users\basti\Desktop\Taller programación\Proyecto ENE V1\Proyecto ENE\Proyecto ENE\obj\Debug\net8.0-windows\Proyecto_ENE.Forms.Login.resources
+C:\Users\basti\Desktop\Taller programación\Proyecto ENE V1\Proyecto ENE\Proyecto ENE\obj\Debug\net8.0-windows\Proyecto_ENE.MenúPrincipal.resources
+C:\Users\basti\Desktop\Taller programación\Proyecto ENE V1\Proyecto ENE\Proyecto ENE\obj\Debug\net8.0-windows\Proyecto ENE.csproj.GenerateResource.cache
+C:\Users\basti\Desktop\Taller programación\Proyecto ENE V1\Proyecto ENE\Proyecto ENE\obj\Debug\net8.0-windows\Proyecto ENE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basti\Desktop\Taller programación\Proyecto ENE V1\Proyecto ENE\Proyecto ENE\obj\Debug\net8.0-windows\Proyecto ENE.AssemblyInfoInputs.cache
+C:\Users\basti\Desktop\Taller programación\Proyecto ENE V1\Proyecto ENE\Proyecto ENE\obj\Debug\net8.0-windows\Proyecto ENE.AssemblyInfo.cs
+C:\Users\basti\Desktop\Taller programación\Proyecto ENE V1\Proyecto ENE\Proyecto ENE\obj\Debug\net8.0-windows\Proyecto ENE.csproj.CoreCompileInputs.cache
+C:\Users\basti\Desktop\Taller programación\Proyecto ENE V1\Proyecto ENE\Proyecto ENE\obj\Debug\net8.0-windows\Proyecto ENE.dll
+C:\Users\basti\Desktop\Taller programación\Proyecto ENE V1\Proyecto ENE\Proyecto ENE\obj\Debug\net8.0-windows\refint\Proyecto ENE.dll
+C:\Users\basti\Desktop\Taller programación\Proyecto ENE V1\Proyecto ENE\Proyecto ENE\obj\Debug\net8.0-windows\Proyecto ENE.pdb
+C:\Users\basti\Desktop\Taller programación\Proyecto ENE V1\Proyecto ENE\Proyecto ENE\obj\Debug\net8.0-windows\Proyecto ENE.genruntimeconfig.cache
+C:\Users\basti\Desktop\Taller programación\Proyecto ENE V1\Proyecto ENE\Proyecto ENE\obj\Debug\net8.0-windows\ref\Proyecto ENE.dll
+C:\Users\basti\Desktop\Taller programación\Proyecto ENE V1\Proyecto ENE\Proyecto ENE\obj\Debug\net8.0-windows\Proyecto_ENE.Forms.MenúPrincipalUsuario.resources
+C:\Users\basti\Desktop\Taller programación\Proyecto ENE V1\Proyecto ENE\Proyecto ENE\obj\Debug\net8.0-windows\Proyecto_ENE.Forms.ListaTrabajadores.resources
+C:\Users\basti\Desktop\Taller programación\Proyecto ENE V1\Proyecto ENE\Proyecto ENE\obj\Debug\net8.0-windows\Proyecto_ENE.Properties.Resources.resources
+C:\Users\basti\Desktop\Taller programación\Proyecto ENE V1\Proyecto ENE\Proyecto ENE\obj\Debug\net8.0-windows\Proyecto_ENE.Forms.ListaTrabajadorSueldo.resources
